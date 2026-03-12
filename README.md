@@ -14,7 +14,6 @@ Users can input a headline, article, or news snippet into the web interface. The
 
 ## 🚀 Key Features
 *   **Snippet-Level Analysis**: Specifically optimized to handle short news snippets, headlines, and telegraphic social media updates.
-*   **Image Snippet Support (OCR)**: Built-in analysis for screenshots of news articles or social media posts using Optical Character Recognition.
 *   **Multi-Model Intelligence**: Supports multiple state-of-the-art algorithms including Logistic Regression, Naive Bayes, SVM, and Random Forest.
 *   **Dynamic Probability Scores**: Provides precise confidence percentages for both "Reality" and "Deception" scores.
 *   **Modern Glassmorphic UI**: A premium user interface built with React, featuring sleek animations and a responsive design system.
