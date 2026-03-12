@@ -1,0 +1,22 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Sweet Home\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "python.analysis.extraPaths": ["./backend"],
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.reportMissingImports": "none",
+  "python.analysis.reportUndefinedVariable": "none",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none",
+    "reportUndefinedVariable": "none",
+    "reportGeneralTypeIssues": "none",
+    "reportUnusedImport": "none"
+  },
+  "python.languageServer": "Default",
+  "python.linting.enabled": false,
+  "pylance.reportMissingModuleSource": "none",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.pyright": "always"
+  },
+  "[python]": {
+    "editor.defaultFormatter": null
+  }
+}

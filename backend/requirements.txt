@@ -1,0 +1,31 @@
+# Fake Buster – Python Dependencies
+# Compatible with Python 3.8 – 3.11
+
+# Web Framework
+django
+djangorestframework
+django-cors-headers
+
+# Data Processing
+pandas
+numpy
+
+# Machine Learning (scikit-learn covers all 4 algorithms in the abstract)
+scikit-learn
+
+# NLP – tokenization and stopwords
+nltk
+
+# Model serialization
+joblib
+
+# HTTP – for downloading the dataset
+requests
+
+# BERT-based transformer models for State-of-the-art performance
+transformers
+torch
+
+# Image Analysis & OCR
+easyocr
+Pillow

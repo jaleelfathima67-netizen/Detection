@@ -1,0 +1,14 @@
+----------------------------------------------------------------------------------------------------
+VERDICT    | CONFIDENCE | NEWS SNIPPET
+----------------------------------------------------------------------------------------------------
+REAL       |     99.0%  | G7 ministers hold emergency meeting over rising oil prices
+REAL       |     85.5%  | NASA's James Webb Telescope discovers water on a distant planet
+REAL       |     98.6%  | Global stock markets show steady growth in the third quarter
+REAL       |     99.0%  | Apple announces new AI features for iPhone focusing on privacy
+REAL       |     85.4%  | Drinking 8 glasses of water a day is essential for hydration
+FAKE       |     90.7%  | The world is flat and NASA is hiding it with CGI images
+FAKE       |     92.8%  | Scientists discover that drinking bleach can cure any disease instantly
+FAKE       |     59.2%  | Aliens have taken over the White House and are controlling the President
+FAKE       |     98.0%  | New law secretly requires all citizens to wear aluminum foil hats
+FAKE       |     91.8%  | Phones are actually surveillance drones built by birds
+----------------------------------------------------------------------------------------------------

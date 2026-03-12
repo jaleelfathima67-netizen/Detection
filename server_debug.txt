@@ -1,0 +1,2 @@
+Watching for file changes with StatReloader
+Using CPU. Note: This module is much faster with a GPU.
